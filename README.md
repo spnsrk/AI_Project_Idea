@@ -1,5 +1,3 @@
-# AI_Project_Idea
-
 # MonSphere AI
 An Intelligent AI-powered Solution for Multi-Platform Integration, Troubleshooting, Code Generation, and System Optimization
 
